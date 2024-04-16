@@ -1,3 +1,11 @@
+Запуск:
+1. Склонировать
+2. Созадть .env на основании .env.example
+3. Запустить `make start`
+4. Запустить `make bash`
+5. Запустить `composer install`
+6. Готово
+
 Тестовое задание
 
 Использовать, PHP 7+, Laravel 8+ и оформить в виде GIT-репозитория (Github/Gitlab/Bitbucket).
